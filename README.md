@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelzinnn%label=Profile%20views&color=0e75b6&style=flat alt="andrelzinnn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrelzinnn" alt="andrelzinnn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrelzinnn&theme=darkhub" alt="andrelzinnn" /></a> </p>
 
 - 🔭 I’m currently working on [MusicRecommend](https://github.com/Andrelzinnn/MusicRecommend)
 
