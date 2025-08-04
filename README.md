@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MusicRecommend](https://github.com/Andrelzinnn/MusicRecommend)
 
-- 🌱 I’m currently learning **Java, C, rust, redis, mysql, IA, aws, azure, linux**
+- 🌱 I’m currently learning **Java, C, rust, redis, mysql, IA, aws, linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Andrelzinnn](https://github.com/Andrelzinnn)
 
